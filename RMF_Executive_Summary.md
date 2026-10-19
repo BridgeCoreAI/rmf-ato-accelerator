@@ -12,7 +12,7 @@ The GSEL for RMF ATO Accelerator is a Governance Engineering reference implement
 It is derived from the BridgeCore Governance Engineering Methodology™ (BGEM) and published through the Governance Systems Engineering Lab (GSEL) as a reference implementation demonstrating Governance Engineering in practice.
 
 **Current Version:** v0.1.0
-**Status:** Published Reference Implementation
+**Status:** Published overview — full implementation available upon request
 **Formally Specified | Public Repository**
 
 ---
@@ -48,7 +48,7 @@ The GSEL for RMF ATO Accelerator addresses both by engineering the authorization
 | Engineering Discipline | Governance Engineering for authorization workflows |
 | Framework Source | NIST SP 800-37 RMF; applicable CNSSI 1253 guidance |
 | Governance Capabilities Demonstrated | Control tailoring, evidence integrity, human authorization gates, decision traceability |
-| Published Evidence | Public GitHub repository |
+| Published Evidence | Public overview; full implementation available upon request |
 
 ---
 
