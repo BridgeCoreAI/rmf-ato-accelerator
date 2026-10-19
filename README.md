@@ -12,7 +12,7 @@ The GSEL for RMF ATO Accelerator is a Governance Engineering reference implement
 Derived from the BridgeCore Governance Engineering Methodology™ (BGEM) and published through the Governance Systems Engineering Lab (GSEL).
 
 **Current Version:** v0.1.0
-**Status:** Published Reference Implementation
+**Status:** Published overview — full implementation available upon request
 
 ---
 
