@@ -1,3 +1,5 @@
+[![tests](https://github.com/BridgeCoreAI/rmf-ato-accelerator/actions/workflows/tests.yml/badge.svg)](https://github.com/BridgeCoreAI/rmf-ato-accelerator/actions/workflows/tests.yml)
+
 # GSEL for RMF — ATO Accelerator
 
 **BridgeCore AI — Governance Systems Engineering Lab (GSEL)**
